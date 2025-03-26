@@ -19,7 +19,7 @@ The script performs the following tasks:
 - Adjusted the VBA script to ensure it processes all worksheets (each quarter) in a single execution.
 
 ## Usage
-1. Load the script into your Excel workbook.
+1. Load the script into an Excel workbook.
 2. Run the script to analyze stock data across all worksheets.
 3. View the output, including ticker symbols, quarterly changes, percentage changes, and highlighted stocks with the greatest increases, decreases, and total volume.
 
